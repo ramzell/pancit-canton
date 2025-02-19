@@ -1,6 +1,6 @@
 
 function printTextFunction(){
-  document.getElementById("clickToPrintText").innerHTML="That is all for our presentation! Merry Christmas!";
+  document.getElementById("clickToPrintText").innerHTML="Thanks for clicking me!";
 }
 
 $(document).ready(function(){
